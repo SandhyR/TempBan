@@ -1,0 +1,6 @@
+name: Ban
+main: ban\Ban
+version: 1.0.0
+api: "3.0.0"
+author: SandhyR
+description: "Ban plugin for PocketMine-MP"
